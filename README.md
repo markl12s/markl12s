@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on anything really. Im currently working on a self driving RC car so any help would be great
 - 📫 How to reach me ideally by discord at mark(he/him)#8823 or by email at markdl2020@gmail.com email me about anything, even if you just want a friend
 
+Be my guest to steal any of my code for any of your projects, and if it's a project you are allowed to talk about please tell me about it, contact information is above
+
 <!---
 markl12s/markl12s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
