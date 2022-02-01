@@ -3,7 +3,7 @@
       My dad has also always built fairly large scale projects, such as a Catapult meant for throwing Pumkins, and that inspired me
 - 🌱 I’m currently learning first year of a computer scinece degree, 
       Im currently into Basic Time Travel, it's a esolang, my first attempt at learning one
-      Im learning Linux, have used POP!_OS and am switching to Debian.
+      Im learning Linux, currently use Ubuntu, have used POP_OS! It isn't my daily driver, I mostly use windows
 - 💞️ I’m looking to collaborate on [add later]
 - 📫 How to reach me ideally by discord at mark.#8823 or by email at markdl2020@gmail.com email me about anything, even if you just want a friend
 
