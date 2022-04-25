@@ -5,7 +5,7 @@
       Im currently into Basic Time Travel, it's a esolang, my first attempt at learning one
       Im learning Linux, currently use Ubuntu, have used POP_OS! It isn't my daily driver, I mostly use windows
 - 💞️ I’m looking to collaborate on [add later]
-- 📫 How to reach me ideally by discord at mark.#8823 or by email at markdl2020@gmail.com email me about anything, even if you just want a friend
+- 📫 How to reach me ideally by discord at Mark(He/They)#8823 or by email at markdl2020@gmail.com email me about anything, even if you just want a friend
 
 Be my guest to steal any of my code for any of your projects, and if it's a project you are allowed to talk about please tell me about it, contact information is above, if you have an idea of how to improve it be my guest to create a pull request.
 
