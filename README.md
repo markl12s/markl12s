@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark
 - 👀 I’m interested in creating whatever I can, all of this is new and interesting, Im a big fan of maker channels, such as Zack Freedman and Michael Reeves.
-      My dad has also always built fairly large scale projects, such as a Catapult meant for throwing Pumkins, and that inspired me
+      My dad has also always built fairly large scale projects, such as a Catapult meant for throwing Pumkins, and that inspired me. I don't spend almost any of my free time coding anymore, school killed all the enthusiasm for it
 - 🌱 I’m currently getting a computer scinece degree, 
       Im learning Linux, currently use Manjaro, have used POP_OS! and Ubuntu It isn't my daily driver but I have it on my laptop which I use for school work, admitinglty not much         technical stuff on it, I mostly use windows
 - 🏳️‍🌈 Im aro-ace, and genderfluid. I only started questioning stuff a few years ago cause getting diagnosed with ADHD triggered a journey of self discovery
